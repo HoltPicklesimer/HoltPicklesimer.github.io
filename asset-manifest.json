@@ -1,20 +1,22 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.c5874577.chunk.css",
-    "main.js": "/portfolio/static/js/main.576bc337.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.576bc337.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.61c04b8d.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.61c04b8d.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/css/2.f3cffc9e.chunk.css": "/portfolio/static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.8f6de08a.chunk.js": "/portfolio/static/js/2.8f6de08a.chunk.js",
-    "static/js/2.8f6de08a.chunk.js.map": "/portfolio/static/js/2.8f6de08a.chunk.js.map",
+    "static/js/2.a65f320f.chunk.js": "/portfolio/static/js/2.a65f320f.chunk.js",
+    "static/js/2.a65f320f.chunk.js.map": "/portfolio/static/js/2.a65f320f.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.22b8d02be59d2b1747b48c4684ae4374.js": "/portfolio/precache-manifest.22b8d02be59d2b1747b48c4684ae4374.js",
+    "precache-manifest.1ecbbfc8299ce7292bd93865dd79b7c8.js": "/portfolio/precache-manifest.1ecbbfc8299ce7292bd93865dd79b7c8.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.f3cffc9e.chunk.css.map": "/portfolio/static/css/2.f3cffc9e.chunk.css.map",
     "static/css/main.c5874577.chunk.css.map": "/portfolio/static/css/main.c5874577.chunk.css.map",
-    "static/js/2.8f6de08a.chunk.js.LICENSE.txt": "/portfolio/static/js/2.8f6de08a.chunk.js.LICENSE.txt",
+    "static/js/2.a65f320f.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a65f320f.chunk.js.LICENSE.txt",
+    "static/media/antTrail.JPG": "/portfolio/static/media/antTrail.a172677f.JPG",
     "static/media/careSource.png": "/portfolio/static/media/careSource.9e82e110.png",
+    "static/media/contoso.JPG": "/portfolio/static/media/contoso.62e09966.JPG",
     "static/media/megaDesk.png": "/portfolio/static/media/megaDesk.1287d0c0.png",
     "static/media/megadesk2.PNG": "/portfolio/static/media/megadesk2.84b1bded.PNG",
     "static/media/profile.jpg": "/portfolio/static/media/profile.7f6a8dc2.jpg",
@@ -24,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
     "static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.8f6de08a.chunk.js",
+    "static/js/2.a65f320f.chunk.js",
     "static/css/main.c5874577.chunk.css",
-    "static/js/main.576bc337.chunk.js"
+    "static/js/main.61c04b8d.chunk.js"
   ]
 }
