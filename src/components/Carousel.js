@@ -8,6 +8,8 @@ import unity from '../assets/images/unity.png';
 import megaDesk from '../assets/images/megaDesk.png';
 import scripture from '../assets/images/scripture.PNG';
 import megaDesk2 from '../assets/images/megadesk2.PNG';
+import contoso from '../assets/images/contoso.JPG';
+import antTrail from '../assets/images/antTrail.JPG';
 import { Container } from 'react-bootstrap';
 
 class Carousel extends React.Component {
@@ -62,16 +64,24 @@ class Carousel extends React.Component {
                     content: "This is a web application I created using Razor Web Pages and .NET Core. The application stores a user's scripture journal entries and the user can perform CRUD operations using " +
                     "the different pages. The entries are stored in a local database."
                 },
-                // {
-                //     id: 4,
-                //     title: 'MegaDesk Application',
-                //     subTitle: 'A .NET Core Web Application',
-                //     imgSrc: megaDesk2,
-                //     link: 'https://github.com/HoltPicklesimer/MegaDesk',
-                //     selected: false,
-                //     content: "This is the same MegaDesk application, but in a Web form. I created this application in collaboration with the same teammate. We used Razor Web pages and .NET Core when creating " +
-                //     "the web pages."
-                // },
+                {
+                    id: 4,
+                    title: 'Contoso University',
+                    subTitle: 'A .NET Core MVC Web Application',
+                    imgSrc: contoso,
+                    link: 'https://github.com/HoltPicklesimer/ContosoUniversity',
+                    selected: false,
+                    content: "A web application I created as a learning project by following the Microsoft Contoso University tutorial that uses Entity Framework. Users can enroll students and add courses and departments. A few changes were made to the styling of the pages."
+                },
+                {
+                    id: 5,
+                    title: 'Ant Trail',
+                    subTitle: 'An ASP.NET Core MVC Bug Tracker',
+                    imgSrc: antTrail,
+                    link: 'https://github.com/HoltPicklesimer/BugTracker2',
+                    selected: false,
+                    content: "A web application I created using ASP.NET Core MVC and Entity Framework. Users can register for an account, create projects and bug reports, and invite other users to their projects. Authentication was created using scaffolded Razor web pages."
+                },
             ]
         };
     }
