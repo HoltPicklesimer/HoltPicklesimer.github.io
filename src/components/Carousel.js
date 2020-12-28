@@ -32,6 +32,16 @@ class Carousel extends React.Component {
                 },
                 {
                     id: 1,
+                    title: 'Ant Trail',
+                    subTitle: 'An ASP.NET Core MVC Bug Tracker',
+                    imgSrc: antTrail,
+                    link2: 'https://anttrail.azurewebsites.net/Identity/Account/Login?ReturnUrl=%2F',
+                    link: 'https://github.com/HoltPicklesimer/BugTracker2',
+                    selected: false,
+                    content: "A web application I created using ASP.NET Core MVC and Entity Framework. Users can register for an account, create projects and bug reports, and invite other users to their projects. Authentication was created using scaffolded Razor web pages."
+                },
+                {
+                    id: 2,
                     title: 'Unity Game Development',
                     subTitle: 'Object-Oriented Programming in C#',
                     imgSrc: unity,
@@ -44,7 +54,7 @@ class Carousel extends React.Component {
                     "applications and a gender classifier developed using the Keras and TensorFlow libraries."
                 },
                 {
-                    id: 2,
+                    id: 3,
                     title: 'MegaDesk Application',
                     subTitle: 'A .NET Framework Desktop Application',
                     imgSrc: megaDesk,
@@ -55,7 +65,7 @@ class Carousel extends React.Component {
                     "the windows forms."
                 },
                 {
-                    id: 3,
+                    id: 4,
                     title: 'My Scripture Journal Application',
                     subTitle: 'A .NET Core Web Application',
                     imgSrc: scripture,
@@ -65,7 +75,7 @@ class Carousel extends React.Component {
                     "the different pages. The entries are stored in a local database."
                 },
                 {
-                    id: 4,
+                    id: 5,
                     title: 'Contoso University',
                     subTitle: 'A .NET Core MVC Web Application',
                     imgSrc: contoso,
@@ -73,15 +83,7 @@ class Carousel extends React.Component {
                     selected: false,
                     content: "A web application I created as a learning project by following the Microsoft Contoso University tutorial that uses Entity Framework. Users can enroll students and add courses and departments. A few changes were made to the styling of the pages."
                 },
-                {
-                    id: 5,
-                    title: 'Ant Trail',
-                    subTitle: 'An ASP.NET Core MVC Bug Tracker',
-                    imgSrc: antTrail,
-                    link: 'https://github.com/HoltPicklesimer/BugTracker2',
-                    selected: false,
-                    content: "A web application I created using ASP.NET Core MVC and Entity Framework. Users can register for an account, create projects and bug reports, and invite other users to their projects. Authentication was created using scaffolded Razor web pages."
-                },
+                
             ]
         };
     }
