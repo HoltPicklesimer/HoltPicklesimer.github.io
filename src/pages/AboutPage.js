@@ -10,7 +10,7 @@ function AboutPage(props) {
 
       <Content>
         <p>
-          Hello, my name is Ethan (Holt) Picklesimer. I am a software
+          Hello, my name is Holt (Ethan) Picklesimer. I am a software
           engineering major at BYU-Idaho, graduating in April 2021. I have
           experience in C#, .NET, SQL, HTML, CSS, JavaScript, TypeScript, PHP,
           C++, C, Java, and Python, among others.
