@@ -20,7 +20,8 @@ function Footer() {
                   </a>
                </Col>
                <Col className='p-0 d-flex justify-content-end' md={4}>
-                  Copyright © 2020 - Ethan Picklesimer, All Rights Reserved.
+                  Copyright © {new Date().getFullYear()} - Ethan Picklesimer,
+                  All Rights Reserved.
                </Col>
             </Row>
          </Container>
