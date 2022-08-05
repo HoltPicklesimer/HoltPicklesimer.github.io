@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9317b93e6366acc120e1635eb457da93",
+    "revision": "4687c15284c243fee0cd602bcf4090bb",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "b5c5153976919aaf5ed7",
+    "revision": "05ff76ce9cd1c5085d38",
     "url": "/portfolio/static/css/2.f3cffc9e.chunk.css"
   },
   {
-    "revision": "76775d77f05e5d5c1555",
+    "revision": "aecd089ad8d50dd93509",
     "url": "/portfolio/static/css/main.c5874577.chunk.css"
   },
   {
-    "revision": "b5c5153976919aaf5ed7",
-    "url": "/portfolio/static/js/2.fdb29e3f.chunk.js"
+    "revision": "05ff76ce9cd1c5085d38",
+    "url": "/portfolio/static/js/2.2c1726ec.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/portfolio/static/js/2.fdb29e3f.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.2c1726ec.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "76775d77f05e5d5c1555",
-    "url": "/portfolio/static/js/main.455aa989.chunk.js"
+    "revision": "aecd089ad8d50dd93509",
+    "url": "/portfolio/static/js/main.02363a87.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -58,5 +58,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7a9bd577860283a2b3432709b2a872c0",
     "url": "/portfolio/static/media/unity.7a9bd577.png"
+  },
+  {
+    "revision": "1efcc346accd9a381363a9800bce5eff",
+    "url": "/portfolio/static/media/walmart.1efcc346.jpg"
   }
 ]);

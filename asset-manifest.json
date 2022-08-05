@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.c5874577.chunk.css",
-    "main.js": "/portfolio/static/js/main.455aa989.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.455aa989.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.02363a87.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.02363a87.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/css/2.f3cffc9e.chunk.css": "/portfolio/static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.fdb29e3f.chunk.js": "/portfolio/static/js/2.fdb29e3f.chunk.js",
-    "static/js/2.fdb29e3f.chunk.js.map": "/portfolio/static/js/2.fdb29e3f.chunk.js.map",
+    "static/js/2.2c1726ec.chunk.js": "/portfolio/static/js/2.2c1726ec.chunk.js",
+    "static/js/2.2c1726ec.chunk.js.map": "/portfolio/static/js/2.2c1726ec.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.a03097bbb79a60606194126f7c03afc0.js": "/portfolio/precache-manifest.a03097bbb79a60606194126f7c03afc0.js",
+    "precache-manifest.8df73bbcc31f5841a01d765335a4fd02.js": "/portfolio/precache-manifest.8df73bbcc31f5841a01d765335a4fd02.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.f3cffc9e.chunk.css.map": "/portfolio/static/css/2.f3cffc9e.chunk.css.map",
     "static/css/main.c5874577.chunk.css.map": "/portfolio/static/css/main.c5874577.chunk.css.map",
-    "static/js/2.fdb29e3f.chunk.js.LICENSE.txt": "/portfolio/static/js/2.fdb29e3f.chunk.js.LICENSE.txt",
+    "static/js/2.2c1726ec.chunk.js.LICENSE.txt": "/portfolio/static/js/2.2c1726ec.chunk.js.LICENSE.txt",
     "static/media/antTrail.JPG": "/portfolio/static/media/antTrail.a172677f.JPG",
     "static/media/careSource.png": "/portfolio/static/media/careSource.9e82e110.png",
     "static/media/contoso.JPG": "/portfolio/static/media/contoso.62e09966.JPG",
@@ -21,13 +21,14 @@
     "static/media/producktivo.png": "/portfolio/static/media/producktivo.f9463542.png",
     "static/media/profile.JPG": "/portfolio/static/media/profile.6219945e.JPG",
     "static/media/scripture.PNG": "/portfolio/static/media/scripture.15d8ae56.PNG",
-    "static/media/unity.png": "/portfolio/static/media/unity.7a9bd577.png"
+    "static/media/unity.png": "/portfolio/static/media/unity.7a9bd577.png",
+    "static/media/walmart.jpg": "/portfolio/static/media/walmart.1efcc346.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
     "static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.fdb29e3f.chunk.js",
+    "static/js/2.2c1726ec.chunk.js",
     "static/css/main.c5874577.chunk.css",
-    "static/js/main.455aa989.chunk.js"
+    "static/js/main.02363a87.chunk.js"
   ]
 }
