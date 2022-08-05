@@ -13,19 +13,26 @@ function AboutPage(props) {
                Hello, my name is Holt (Ethan) Picklesimer. I am a software
                engineer currently working for Walmart. I obtained my BS in
                Software engineering from Brigham Young University - Idaho April
-               2021. I have experience in C#, .NET, SQL, HTML, CSS, JavaScript,
-               TypeScript, PHP, C++, C, Java, and Python, among others.
+               2021. I have experience in React, Redux, TypeScript, JavaScript,
+               C#, .NET, SQL, HTML, CSS, PHP, C++, C, Java, and Python, among
+               others.
             </p>
             <p>
-               I am currently a software developer for Walmart Global Tech as of
+               I am currently a software developer for Walmart Global Tech since
                July 2021. I am part of the COSTL (Checkout Streamlined) team and
                build features for a new POS (Point of Sale) system to replace
-               legacy checkout systems that associates use in-store. I
-               implemented the eWIC (Woman, Infants, Children) frontend payment
-               flow for the COSTL system to allow associates to select eWIC as
-               another payment option via card or handkey. While working for
-               Walmart, I have learned a great deal more of React, JavaScript,
-               Redux, Git, and configuration management, among others.
+               legacy checkout systems that associates use in-store. I led the
+               eWIC (Woman, Infants, Children) frontend and framework payment
+               implementation for the COSTL system to allow associates to select
+               eWIC as another payment option via card or handkey. I am a POS
+               expert and POC for COSTL's payment flows and cart implementation.
+               I regularly use React, Redux, TypeScript/JavaScript, and Java to
+               develop new features and fix issues for the COSTL Framework team,
+               but was previously on the frontend team to develop the next-gen
+               desktop application. I am determined to improve processes and
+               innovate to find the best solution. I enjoy mentoring and
+               learning from colleagues so everyone can grow to a greater
+               potential.
             </p>
             <p>
                I worked as an application development intern on the Enrollment

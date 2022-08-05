@@ -10,6 +10,7 @@ import scripture from '../assets/images/scripture.PNG';
 import contoso from '../assets/images/contoso.JPG';
 import antTrail from '../assets/images/antTrail.JPG';
 import producktivo from '../assets/images/producktivo.png';
+import walmart from '../assets/images/walmart.jpg';
 import { Container } from 'react-bootstrap';
 
 class Carousel extends React.Component {
@@ -19,6 +20,21 @@ class Carousel extends React.Component {
          items: [
             {
                id: 0,
+               title: 'Walmart Global Tech',
+               subTitle: 'Software Engineer II',
+               imgSrc: walmart,
+               selected: false,
+               content:
+                  'I am currently a software developer for Walmart Global Tech since July 2021. I am part of the COSTL (Checkout Streamlined) team and ' +
+                  'build features for a new POS (Point of Sale) system to replace legacy checkout systems that associates use in-store. I led the ' +
+                  'eWIC (Woman, Infants, Children) frontend and framework payment implementation for the COSTL system to allow associates to select ' +
+                  "eWIC as another payment option via card or handkey. I am a POS expert and POC for COSTL's payment flows and cart implementation. " +
+                  'I regularly use React, Redux, TypeScript/JavaScript, and Java to develop new features and fix issues for the COSTL Framework team, ' +
+                  'but was previously on the frontend team to develop the next-gen desktop application. I am determined to improve processes and ' +
+                  'innovate to find the best solution. I enjoy mentoring and learning from colleagues so everyone can grow to a greater potential.',
+            },
+            {
+               id: 1,
                title: 'ProDucktivo',
                subTitle: 'Gamify Tasks!',
                imgSrc: producktivo,
@@ -37,20 +53,20 @@ class Carousel extends React.Component {
                   'reset their email and password or logout of the app. It is downloadable on the Google Play Store',
             },
             {
-               id: 1,
+               id: 2,
                title: 'CareSource',
                subTitle: 'Full-Time Internship',
                imgSrc: careSource,
                selected: false,
                content:
-                  'While working at CareSource for the past year and a half, I worked on internal tools and bugfixes for the Enrollment team that handles incoming member records.' +
+                  'While interning with CareSource while finishing my degree, I worked on internal tools and bugfixes for the Enrollment team that handles incoming member records. ' +
                   'One project I have worked on was the Enrollment Engine Regression Testing Tool. I was the lead contributor for this tool that verifies the Enrollment Engine still works ' +
                   'after integrating a change into the Enrollment Engine. This tool saves the Enrollment Team hundreds of hours a month in quality assurance work and has been used as a ' +
                   'model for other regression tools in the company. I also created a dynamic mapping table to store component mappings and a configurations management UI to allow for easy ' +
                   'creation and modification for Enrollment Team configurations for use of compliance management software.',
             },
             {
-               id: 2,
+               id: 3,
                title: 'Ant Trail',
                subTitle: 'An ASP.NET Core MVC Bug Tracker',
                imgSrc: antTrail,
@@ -60,7 +76,7 @@ class Carousel extends React.Component {
                   'A web application I created using ASP.NET Core MVC and Entity Framework. Users can register for an account, create projects and bug reports, and invite other users to their projects. Authentication was created using scaffolded Razor web pages. Unfortunately, this app is no longer available to view in browser as I was using a student subscription to an Azure database and my funds have been used up.',
             },
             {
-               id: 3,
+               id: 4,
                title: 'Unity Game Development',
                subTitle: 'Object-Oriented Programming in C#',
                imgSrc: unity,
@@ -74,7 +90,7 @@ class Carousel extends React.Component {
                   'applications and a gender classifier developed using the Keras and TensorFlow libraries.',
             },
             {
-               id: 4,
+               id: 5,
                title: 'MegaDesk Application',
                subTitle: 'A .NET Framework Desktop Application',
                imgSrc: megaDesk,
@@ -86,7 +102,7 @@ class Carousel extends React.Component {
                   'the windows forms.',
             },
             {
-               id: 5,
+               id: 6,
                title: 'My Scripture Journal Application',
                subTitle: 'A .NET Core Web Application',
                imgSrc: scripture,
@@ -97,7 +113,7 @@ class Carousel extends React.Component {
                   'the different pages. The entries are stored in a local database.',
             },
             {
-               id: 6,
+               id: 7,
                title: 'Contoso University',
                subTitle: 'A .NET Core MVC Web Application',
                imgSrc: contoso,
